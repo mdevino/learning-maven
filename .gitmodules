@@ -1,0 +1,6 @@
+[submodule "multi-module-maven-project"]
+	path = multi-module-maven-project
+	url = git@github.com:mdevino/learning-maven-multi-module.git
+[submodule "first-maven-project"]
+	path = first-maven-project
+	url = git@github.com:mdevino/learning-maven-first-project.git
